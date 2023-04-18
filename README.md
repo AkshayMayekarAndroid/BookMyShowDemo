@@ -29,7 +29,10 @@ This Android project is designed to make dummy book my show like page.
 <B>- Coil </B>
 
  <h2>App Navigation </h2>
-<B>- Jetpack Navigation Component</B>
+<B>- Jetpack Navigation Component</B><br>
+<B>  </B><br>
+<B>  </B><br>
+<B>  </B><br>
 
 Getting Started
 To set up the Android project, follow these steps:
